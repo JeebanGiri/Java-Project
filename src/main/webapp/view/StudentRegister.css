@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+.Header h1{
+	margin-left: 450px;
+}
+form{
+	
+	background-color: white-gray;
+	color: black;
+	font-weight: bolder;
+	margin-left: 300px;
+	margin-top: 50px;
+	font-family: Arial,sans-serif;
+}
+.division{
+	display: flex;
+	gap: 50px;
+}
+.studid{
+	margin-left: 55px;
+	height: 30px;
+	width: 200px;
+}
+.name{
+	margin-left: 30px;
+	height: 30px;
+	width: 200px;
+}
+.address{
+	margin-left: 15px;
+	height: 30px;
+	width: 200px;
+}
+/*
+.dob{
+	margin-left: 20px;
+	height: 30px;
+	width: 200px;
+}
+.age{
+	margin-left: 72px;
+	height: 30px;
+	width: 200px;
+}
+*/
+.password{
+	margin-left: 38px;
+	height: 30px;
+	width: 200px;
+}
+.submit input{
+	height: 30px;
+	background-color: rgb(18, 147, 228);
+	width: 100px;
+	border: 2px solid rgb(18, 147, 228);
+	cursor: pointer;
+}
